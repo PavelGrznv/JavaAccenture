@@ -1,0 +1,5 @@
+{"java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "sef.module9/lib/*.jar"
+  ]
+}
